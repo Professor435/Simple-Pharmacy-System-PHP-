@@ -21,5 +21,7 @@ To provide a simple, efficient, and scalable solution for managing pharmacy oper
 
 #PHP #MySQL #WebDevelopment #PharmacyManagementSystem #InventoryManagement #CRUD #BackendDevelopment #FullStackDevelopment #StudentProject #OpenSource #WebApp #SoftwareDevelopment #DatabaseManagement #GitHubProjects #CodingLife #DeveloperPortfolio #TechProjects #Programming #LearnToCode #ProjectShowcase
 
+#PharmacyManagement #Healthcare #PHP #MySQL #InventoryManagement #MedicalStore #POS #BillingSystem #PrescriptionManagement #StockControl #WebDevelopment #Backend #FullStack #ClinicManagement #DrugDatabase #SalesReport #HealthcareIT #OpenSource #MedicalTech
+
 
 contact for more (professorshami435@gmail.com)
