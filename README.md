@@ -24,4 +24,4 @@ To provide a simple, efficient, and scalable solution for managing pharmacy oper
 #PharmacyManagement #Healthcare #PHP #MySQL #InventoryManagement #MedicalStore #POS #BillingSystem #PrescriptionManagement #StockControl #WebDevelopment #Backend #FullStack #ClinicManagement #DrugDatabase #SalesReport #HealthcareIT #OpenSource #MedicalTech
 
 
-contact for more projects or personal FYP's(professorshami435@gmail.com)
+contact for more projects or personal FYP's contact(professorshami435@gmail.com)
