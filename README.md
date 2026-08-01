@@ -9,7 +9,7 @@ The system provides an easy-to-use interface for administrators to efficiently m
 
 Medicine inventory management 
 Add, update, and delete records
-Sales and billing system
+Sales and billing system 
 Expiry date tracking
 User-friendly dashboard
 Secure admin login system
