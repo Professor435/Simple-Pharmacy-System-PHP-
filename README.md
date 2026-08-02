@@ -8,7 +8,7 @@ The system provides an easy-to-use interface for administrators to efficiently m
 💡 Key Features:
 
 Medicine inventory management 
-Add, update, and delete records
+Add, update, and delete records 
 Sales and billing system 
 Expiry date tracking
 User-friendly dashboard
