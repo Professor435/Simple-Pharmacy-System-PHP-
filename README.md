@@ -6,7 +6,7 @@ This project is a web-based Pharmacy Management System developed using PHP and M
 The system provides an easy-to-use interface for administrators to efficiently manage stock levels, monitor expiry dates, and generate records. It helps reduce manual work, improves accuracy, and ensures smooth workflow within a pharmacy.
 
 💡 Key Features:
-
+ 
 Medicine inventory management 
 Add, update, and delete records  
 Sales and billing system 
